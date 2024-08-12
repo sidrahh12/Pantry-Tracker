@@ -44,10 +44,6 @@ To get a local copy up and running, follow these simple steps.
    npm start
    ```
 
-## Usage
-
-Provide instructions on how to use your application. Include screenshots or diagrams if necessary.
-
 ## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -60,6 +56,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Sidrah Ahmed - [@your_linkedIn](https://linkedin.com/in/sidrah-ahmed/) 
+Sidrah Ahmed - [LinkedIn](https://linkedin.com/in/sidrah-ahmed/) 
 
 Project Link: [https://github.com/sidrahh12/Pantry-Tracker](https://github.com/sidrahh12/Pantry-Tracker)
