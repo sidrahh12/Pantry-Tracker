@@ -1,5 +1,4 @@
 # Pantry-Tracker
-# Pantry Tracker
 
 ## Table of Contents
 
